@@ -1,5 +1,6 @@
 LMSNet: A Novel Ultra-Lightweight Model for Plant Disease Detection
 Notice Regarding Source Code Availability
+
 Greetings to all visitors, and thank you for your interest in our work, "LMSNet: A Novel Ultra-Lightweight Model for Plant Disease Detection," which we have proudly submitted to the esteemed IEEE Transactions on Instrumentation & Measurement (TIM) for expert review.
 
 🔐 Current Status on Source Code Sharing
@@ -12,7 +13,7 @@ We are steadfast believers in the principles of open science and the value of re
 Following Acceptance: Upon the favorable decision from TIM, expect an immediate announcement and upload of our codebase, complemented by all requisite materials to facilitate your exploration into ultra-lightweight models for automated plant disease detection.
 
 📤 Stay Connected for Updates
-To stay abreast of the code release or for any inquiries, kindly star this repository, subscribe for updates, or directly contact us at [Your Contact Email] for collaboration opportunities or preliminary discussions.
+To stay abreast of the code release or for any inquiries, kindly star this repository, subscribe for updates, or directly contact us at [dexter@stu.zafu.edu.cn] for collaboration opportunities or preliminary discussions.
 
 🤝 Collaboration Invitations
 We eagerly await opportunities to collaborate and welcome contributions inspired by LMSNet. Your enthusiasm fuels our drive to collectively enhance the field, and we look forward to fostering partnerships once our journey through the TIM publication pipeline reaches its successful conclusion.
